@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\CJenkins\\JenkinsProjetoDotNet.csproj": {}
+    "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\cJenkins\\JenkinsProjetoDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\CJenkins\\JenkinsProjetoDotNet.csproj": {
+    "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\cJenkins\\JenkinsProjetoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\CJenkins\\JenkinsProjetoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\cJenkins\\JenkinsProjetoDotNet.csproj",
         "projectName": "JenkinsProjetoDotNet",
-        "projectPath": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\CJenkins\\JenkinsProjetoDotNet.csproj",
+        "projectPath": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\cJenkins\\JenkinsProjetoDotNet.csproj",
         "packagesPath": "C:\\Users\\Lucas Tenorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\CJenkins\\obj\\",
+        "outputPath": "C:\\Users\\Lucas Tenorio\\Documents\\Projetos\\lucas\\JenkinsProjetoDotNet\\cJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
